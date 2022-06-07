@@ -1,6 +1,6 @@
 ### Olá Aqui Letícia Lima!! 👋 
 
-<p>Engenheira Civil em transição de carreira para área de Tecnologia;</p>
+##Engenheira Civil em transição de carreira para área de Tecnologia;
 <p>🌱 Atualmente estudando Java, Javascript e Angular;</p>
 
 <div align="center">
